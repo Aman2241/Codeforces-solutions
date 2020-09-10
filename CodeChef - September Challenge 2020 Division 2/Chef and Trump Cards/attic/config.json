@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chef and Trump Cards/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Chef and Trump Cards",
+      "group": "CodeChef - September Challenge 2020 Division 2",
+      "url": "https://www.codechef.com/SEPT20B/problems/CRDGAME2",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

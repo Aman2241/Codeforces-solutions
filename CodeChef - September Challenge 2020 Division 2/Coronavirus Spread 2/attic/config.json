@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Coronavirus Spread 2/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Coronavirus Spread 2",
+      "group": "CodeChef - September Challenge 2020 Division 2",
+      "url": "https://www.codechef.com/SEPT20B/problems/COVID19B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

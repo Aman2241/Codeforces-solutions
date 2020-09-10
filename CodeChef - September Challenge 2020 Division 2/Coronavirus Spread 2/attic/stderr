@@ -1,0 +1,7 @@
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Coronavirus Spread 2/sol.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Coronavirus Spread 2/sol.cpp:48:12:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Klong long int i[m[K’
+   48 | ll l,r,x,y,[01;31m[Ki[m[K;
+      |            [01;31m[K^[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Coronavirus Spread 2/sol.cpp:40:6:[m[K [01;36m[Knote: [m[K‘[01m[Klong long int i[m[K’ previously declared here
+   40 |   ll [01;36m[Ki[m[K;
+      |      [01;36m[K^[m[K

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #47/A. Domino piling/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Domino piling",
+      "group": "Codeforces - Codeforces Beta Round #47",
+      "url": "https://codeforces.com/problemset/problem/50/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

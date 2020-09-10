@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #67 (Div. 2)/A. Life Without Zeros/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Life Without Zeros",
+      "group": "Codeforces - Codeforces Beta Round #67 (Div. 2)",
+      "url": "https://codeforces.com/contest/75/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,10 @@
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #63 (Div. 2)/A. Young Physicist/sol.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #63 (Div. 2)/A. Young Physicist/sol.cpp:38:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kx[m[K’ was not declared in this scope
+   38 |         cin>>[01;31m[Kx[m[K>>y>>z;
+      |              [01;31m[K^[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #63 (Div. 2)/A. Young Physicist/sol.cpp:38:17:[m[K [01;31m[Kerror: [m[K‘[01m[Ky[m[K’ was not declared in this scope
+   38 |         cin>>x>>[01;31m[Ky[m[K>>z;
+      |                 [01;31m[K^[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #63 (Div. 2)/A. Young Physicist/sol.cpp:38:20:[m[K [01;31m[Kerror: [m[K‘[01m[Kz[m[K’ was not declared in this scope
+   38 |         cin>>x>>y>>[01;31m[Kz[m[K;
+      |                    [01;31m[K^[m[K

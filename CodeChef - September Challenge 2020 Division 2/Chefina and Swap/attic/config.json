@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chefina and Swap/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Chefina and Swap",
+      "group": "CodeChef - September Challenge 2020 Division 2",
+      "url": "https://www.codechef.com/SEPT20B/problems/CHFNSWAP",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Find XOR/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Find XOR",
+      "group": "CodeChef - September Challenge 2020 Division 2",
+      "url": "https://www.codechef.com/SEPT20B/problems/FINXOR",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

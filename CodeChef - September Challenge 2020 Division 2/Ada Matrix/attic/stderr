@@ -1,0 +1,7 @@
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Ada Matrix/sol.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Ada Matrix/sol.cpp:67:46:[m[K [01;31m[Kerror: [m[Kcannot bind non-const lvalue reference of type ‘[01m[Kint&[m[K’ to an rvalue of type ‘[01m[Kint[m[K’
+   67 |                         swap1(V[j][k],V[k][j][01;31m[K)[m[K;
+      |                                              [01;31m[K^[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Ada Matrix/sol.cpp:30:17:[m[K [01;36m[Knote: [m[K  initializing argument 1 of ‘[01m[Kvoid swap1(int&, int&)[m[K’
+   30 | void swap1([01;36m[Kint &x[m[K, int &y)
+      |            [01;36m[K~~~~~^[m[K

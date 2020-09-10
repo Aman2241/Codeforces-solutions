@@ -1,0 +1,16 @@
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chefina and Swap/sol.cpp:28:34:[m[K [01;31m[Kerror: [m[K‘[01m[Ksum[m[K’ was not declared in this scope
+   28 |     long double ans=sqrtl(1ul+4*([01;31m[Ksum[m[K));
+      |                                  [01;31m[K^~~[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chefina and Swap/sol.cpp:29:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kans[m[K’ does not name a type
+   29 |     [01;31m[Kans[m[K=ans-1.0;
+      |     [01;31m[K^~~[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chefina and Swap/sol.cpp:30:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kans[m[K’ does not name a type
+   30 |     [01;31m[Kans[m[K=ans/2.0;
+      |     [01;31m[K^~~[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chefina and Swap/sol.cpp:33:5:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kreturn[m[K’
+   33 |     [01;31m[Kreturn[m[K final;
+      |     [01;31m[K^~~~~~[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chefina and Swap/sol.cpp:[m[K In function ‘[01m[Klong long int finds(long long int)[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/CodeChef - September Challenge 2020 Division 2/Chefina and Swap/sol.cpp:59:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   59 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
