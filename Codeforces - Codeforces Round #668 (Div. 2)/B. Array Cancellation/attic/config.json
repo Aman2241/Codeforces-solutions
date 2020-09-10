@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #668 (Div. 2)/B. Array Cancellation/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Array Cancellation",
+      "group": "Codeforces - Codeforces Round #668 (Div. 2)",
+      "url": "https://codeforces.com/contest/1405/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,4 @@
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #667 (Div. 3)/C. Yet Another Array Restoration/sol.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #667 (Div. 3)/C. Yet Another Array Restoration/sol.cpp:45:12:[m[K [01;31m[Kerror: [m[Kcontinue statement not within a loop
+   45 |            [01;31m[Kcontinue[m[K;
+      |            [01;31m[K^~~~~~~~[m[K

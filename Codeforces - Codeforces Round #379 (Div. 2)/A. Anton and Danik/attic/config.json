@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #379 (Div. 2)/A. Anton and Danik/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Anton and Danik",
+      "group": "Codeforces - Codeforces Round #379 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/734/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

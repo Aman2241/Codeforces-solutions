@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - VK Cup 2012 Qualification Round 1/B. Taxi/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Taxi",
+      "group": "Codeforces - VK Cup 2012 Qualification Round 1",
+      "url": "https://codeforces.com/problemset/problem/158/B",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #669 (Div. 2)/A. Ahahahahahahahaha/sol.cpp:107:[m[K [01;35m[Kwarning: [m[K"ll" redefined
+  107 | #define ll long long
+      | 
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #669 (Div. 2)/A. Ahahahahahahahaha/sol.cpp:18:[m[K [01;36m[Knote: [m[Kthis is the location of the previous definition
+   18 | #define ll long long int
+      | 
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #669 (Div. 2)/A. Ahahahahahahahaha/sol.cpp:108:5:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kint main()[m[K’
+  108 | int [01;31m[Kmain[m[K()
+      |     [01;31m[K^~~~[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #669 (Div. 2)/A. Ahahahahahahahaha/sol.cpp:30:5:[m[K [01;36m[Knote: [m[K‘[01m[Kint main()[m[K’ previously defined here
+   30 | int [01;36m[Kmain[m[K()
+      |     [01;36m[K^~~~[m[K
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #669 (Div. 2)/A. Ahahahahahahahaha/sol.cpp:112:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+  112 | [01;31m[K}[m[K
+      | [01;31m[K^[m[K
