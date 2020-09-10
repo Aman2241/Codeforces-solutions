@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #666 (Div. 2)/A. Juggling Letters/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Juggling Letters",
+      "group": "Codeforces - Codeforces Round #666 (Div. 2)",
+      "url": "https://codeforces.com/contest/1397/problem/0",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

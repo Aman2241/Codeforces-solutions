@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #665 (Div. 2)/A. Distance and Axis/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Distance and Axis",
+      "group": "Codeforces - Codeforces Round #665 (Div. 2)",
+      "url": "https://codeforces.com/contest/1401/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

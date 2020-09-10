@@ -1,0 +1,4 @@
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #665 (Div. 2)/A. Distance and Axis/sol.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Round #665 (Div. 2)/A. Distance and Axis/sol.cpp:17:32:[m[K [01;31m[Kerror: [m[Klvalue required as left operand of assignment
+   17 |         if(n/2-0=n-n/2=k && n!=[01;31m[K0[m[K)
+      |                                [01;31m[K^[m[K
