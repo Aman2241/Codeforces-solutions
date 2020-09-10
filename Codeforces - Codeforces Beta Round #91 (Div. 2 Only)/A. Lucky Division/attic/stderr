@@ -1,0 +1,4 @@
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #91 (Div. 2 Only)/A. Lucky Division/sol.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #91 (Div. 2 Only)/A. Lucky Division/sol.cpp:36:57:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K?[m[K’ token
+   36 |  if(n%4==0 || n%7==0 || n%47==0 || n%74==0 || n%447==0) [01;31m[K?[m[K cout<<"YES":cout<<"NO";
+      |                                                         [01;31m[K^[m[K
