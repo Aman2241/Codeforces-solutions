@@ -1,0 +1,5 @@
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Technocup 2019 - Elimination Round 1/A. In Search of an Easy Problem/sol.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/aman/Documents/CP/Codeforces/Codeforces - Technocup 2019 - Elimination Round 1/A. In Search of an Easy Problem/sol.cpp:48:5:[m[K [01;31m[Kerror: [m[K‘[01m[KCount[m[K’ was not declared in this scope; did you mean ‘[01m[Kcount[m[K’?
+   48 |  if([01;31m[KCount[m[K==0)
+      |     [01;31m[K^~~~~[m[K
+      |     [32m[Kcount[m[K

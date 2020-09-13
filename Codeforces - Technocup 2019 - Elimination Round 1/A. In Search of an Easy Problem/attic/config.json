@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/aman/Documents/CP/Codeforces/Codeforces - Technocup 2019 - Elimination Round 1/A. In Search of an Easy Problem/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. In Search of an Easy Problem",
+      "group": "Codeforces - Technocup 2019 - Elimination Round 1",
+      "url": "https://codeforces.com/problemset/problem/1030/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
